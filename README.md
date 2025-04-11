@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bchoga
-- 👀 I’m interested in C++, Mobile app dev, Linux, Data Structures And Algorithms
+- 👀 I’m interested in C++, Mobile app dev, Linux, Data Structures And Algorithms, IOT, Cyber Security etc
 - 🌱 I’m currently training for full stack development using HTML, CSS, Javascript and SQL 
-- 💞️ I’m looking to collaborate on anything i can right now
 - 📫 How to reach me : bchoga4@gmail.com
 
 <!---
